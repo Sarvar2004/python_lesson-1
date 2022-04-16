@@ -1,2 +1,1 @@
-# python_lesson-1
-leson-1
+print ("Hello World")
